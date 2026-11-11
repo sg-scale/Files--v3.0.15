@@ -67,7 +67,7 @@
     </ItemGroup>
 
     <ItemGroup>
-        <PackageReference Include="ByteSize" Version="2.1.1" />
+        <PackageReference Include="ByteSize" Version="2.1.2" />
         <PackageReference Include="CommunityToolkit.Mvvm" Version="8.2.2" />
         <PackageReference Include="DirectNCore" Version="1.15.0.2" />
         <PackageReference Include="DiscUtils.Udf" Version="0.16.13" />
